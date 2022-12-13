@@ -1,3 +1,4 @@
+
 // const baseURL = "https://63987644044fa481d69e5f64.mockapi.io/posts/"
 const baseURL = "http://localhost:3000/mock/"
 
