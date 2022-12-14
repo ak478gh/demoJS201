@@ -1,1 +1,0 @@
-let res = await fetch("https://6398440afe03352a94ca717b.mockapi.io/");
